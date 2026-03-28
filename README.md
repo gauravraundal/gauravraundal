@@ -1,52 +1,26 @@
 <h1 align="center">Hi 👋, I'm Gaurav Raundal</h1>
-<h3 align="center">💻 Computer Science Student | Web Developer | AI Enthusiast 🚀</h3>
+<h3 align="center">💻 Software Developer | MERN Stack | AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+Voice+Assistant+Developer;Open+Source+Learner&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Voice+Assistant+Builder;Open+Source+Learner&center=true&width=550&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Undergraduate (2023–2025)
-- 💻 Skilled in Web Development & Programming
-- 🤖 Currently building an **AI-based Voice Assistant**
-- 🌱 Learning MERN Stack & Artificial Intelligence
-- 🎯 Goal: Become a Software Developer
+- 🎓 Completed **Bachelors in Computer Science (BCS)**  
+- 🎓 Currently pursuing **Masters in Computer Science (MCS)**  
+- 💻 Passionate about **Web Development & AI**  
+- 🤖 Building an **AI-based Voice Assistant**  
+- ⚡ Strong in problem-solving and logical thinking  
+- 🎯 Goal: To become a skilled Software Developer  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,cpp,git,github,vscode" />
 </p>
-
----
-
-## 💼 Experience & Training
-- ✅ Completed HTML, CSS & JavaScript (Full Stack Basics)
-- ✅ Software Engineering & Agile Development (Online)
-- ✅ Introduction to C++ Course
-- ✅ Python Programming (Basics + Data Structures)
-- ✅ ChatGPT & Generative AI Certification
-- 🏅 Coding King & Queen Participant
-- 🏆 Poster Making Competition Participant
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Job Portal Web Application (MERN Stack)
-- User authentication & job posting system  
-- Resume upload & admin dashboard  
-- REST APIs with MongoDB integration  
-- Responsive UI for job search  
-
-### 🔹 AI Voice Assistant (Ongoing 🚧)
-- Voice command recognition  
-- Task automation (open apps, search, etc.)  
-- Built using Python & AI libraries  
-- Future scope: Smart assistant with NLP  
 
 ---
 
@@ -61,32 +35,47 @@
 
 ---
 
-## 🧠 Skills
+## 🚀 Projects
 
-### 🔹 Technical Skills
-- Java, C++, Python  
-- HTML, CSS, JavaScript  
-- SQL (Oracle Basics)  
-- Data Structures  
+### 🔹 Job Portal Web Application (MERN Stack)
+- Developed full-stack web application  
+- Features: User authentication, job posting, job search  
+- Tech Stack: MongoDB, Express.js, React.js, Node.js  
 
-### 🔹 Soft Skills
-- Time Management  
-- Communication  
-- Team Collaboration  
-- Analytical Thinking  
+---
+
+### 🔹 AI Voice Assistant (Ongoing 🚧)
+- Voice-controlled assistant using AI  
+- Features:
+  - Speech recognition  
+  - Command execution  
+  - Smart responses  
+- Tech: Python, AI APIs  
+
+---
+
+## 💼 Training & Experience
+- Completed **HTML, CSS & JavaScript (Full Stack Basics)**  
+- Software Engineering & Agile Development (Online)  
+- Introduction to C++  
+- Python Programming (Data types, Lists, Tuples, Dictionaries)  
+- ChatGPT & Generative AI Certification  
+- Social Media Marketing Internship (1 Month)  
 
 ---
 
 ## 🏆 Achievements
-- 🥇 First Prize – Avishkar Poster Presentation  
-- 🥉 Third Prize – Avishkar Poster Presentation  
+- 🥇 Poster Making Competition (College Level)  
+- 📜 Python Programming Certification  
+- 💡 Participated in Hackathons  
 
 ---
 
 ## 📫 Contact Me
 - 📧 Email: gauravraundal99@gmail.com  
-- 📍 Nashik, Maharashtra, India  
+- 📍 Location: Nashik, Maharashtra, India  
+- 🔗 Portfolio: https://gauravraundal-277a542587.umso.co  
 
 ---
 
-<p align="center">✨ Keep Learning | Keep Building | Keep Growing 🚀</p>
+<p align="center">✨ Building innovative solutions with code ✨</p>
